@@ -1,4 +1,5 @@
 # LCHM-Layer-Contrast-Fine-tuning-for-Hallucination-Mitigation-in-LLMs
 LCHM: layer-wise JSD selects a divergence-sensitive layer for single-layer LoRA fine-tuning to reduce LLM hallucinations; evaluated via log-probability gap on HaluEval.
-![LCHM method overview](assets/method_overview.png)
+
+![LCHM method overview](method_overview.png)
 
